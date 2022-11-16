@@ -1,6 +1,6 @@
 # DuckDB-Wasm + Observable Plot + Svelte & TypeScript
 
-![Screenshot of output](screenshot_cropped.PNG)
+![Screenshot of output](screenshot_cropped.png)
 
 Using DuckDB-Wasm to query a parquet file and plotting the results using [Observable Plot](https://observablehq.com/@observablehq/plot).
 
@@ -9,6 +9,12 @@ Svelte is used, although this example should generalize well to other frameworks
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+
+## How to run
+
+1. Clone repository to local machine
+2. Install dependencies with `npm i`
+3. Open browser at http://localhost:5173/
 
 
 ## Sources
